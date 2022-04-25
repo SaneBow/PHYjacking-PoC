@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Race-attack PoC</string>
+    <string name="cover_text">Malicious Cover</string>
+    <string name="launchAttackBtn">Launch PoC Attack</string>
+</resources>

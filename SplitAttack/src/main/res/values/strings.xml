@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiwindow-bypass PoC</string>
+    <string name="cover_text">Malicious Cover</string>
+    <string name="launchAttackBtn">Launch PoC Attack</string>
+</resources>
